@@ -4,7 +4,7 @@
 ### Objective
 The objective of this project is to build a landing page for a product using the principles of _mobile-first design_. To complete this project, you will have to use media queries to create appropriate breakpoints to ensure that your landing page looks great on mobile and desktop browsers.
 
-### Requirements 
+### Requirements
 You will model your landing page off of [this site](https://codepen.io/freeCodeCamp/full/RKRbwL). You are free to create or choose your own product that you will market but it must meet the following requirements, all of which are present in the sample page:
 * The mobile and desktop layouts of your page must be identical to the mobile and desktop layouts of the sample:
   * Mobile Layout:
@@ -37,10 +37,6 @@ You will model your landing page off of [this site](https://codepen.io/freeCodeC
 ...the usual.
 1. Fork this lab
 2. Clone it
-3. Create your `first-last` folder in `fellow-submissions`
-4. Add your project files there.
-5. Commit early. Commit often.
-6. `push` when done and then open a pull request 😎
-
-### Due Date
-Friday, October 4 at 9AM
+3. Create your html and css files.
+4. Commit early. Commit often.
+5. `push` when done and then open a pull request to `The-Marcy-Lab-School:master` 😎
