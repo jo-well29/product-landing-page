@@ -35,8 +35,7 @@ You will model your landing page off of [this site](https://codepen.io/freeCodeC
 
 ### Submission Directions
 ...the usual.
-1. Fork this lab
-2. Clone it
-3. Create your html and css files.
-4. Commit early. Commit often.
-5. `push` when done and then open a pull request to `The-Marcy-Lab-School:master` 😎
+1. If this is a practice lab, fork and clone your forked repo. Otherwise, if this is a Lab *Assignment*, you'll just clone it down
+2. Create your html and css files.
+3. Commit early. Commit often.
+4. `push` when done.
