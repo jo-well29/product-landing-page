@@ -10,8 +10,8 @@ You will model your landing page off of [this site](https://codepen.io/freeCodeC
   * Mobile Layout:
     1. Header (fixed)
       * Logo
-      * Menu iwth three links
-    2. Email sign-up
+      * Menu with three links
+    2. Email sign-up form
     3. Three product talking points
     4. Embedded YouTube Video
     5. Three cards advertising three different pricing points **in a column**
@@ -20,7 +20,7 @@ You will model your landing page off of [this site](https://codepen.io/freeCodeC
     1. Header (fixed)
       * Logo
       * Navbar-style menu with three links
-    2. Email sign-up
+    2. Email sign-up form
     3. Three product talking points **with font-awesome icons**
     4. Embedded YouTube Video
     5. Three cards **in a row**
