@@ -10,21 +10,21 @@ You will model your landing page off of [this site](https://codepen.io/freeCodeC
   * Mobile Layout:
     1. Header (fixed)
       * Logo
-      * Menu
+      * Menu iwth three links
     2. Email sign-up
     3. Three product talking points
     4. Embedded YouTube Video
-    5. Three cards advertising three different pricing points
+    5. Three cards advertising three different pricing points **in a column**
     6. Footer with three links and a copyright
   * Desktop Layout:
     1. Header (fixed)
       * Logo
-      * Navbar-style menu
+      * Navbar-style menu with three links
     2. Email sign-up
     3. Three product talking points **with font-awesome icons**
     4. Embedded YouTube Video
     5. Three cards **in a row**
-    6. Footer
+    6. Footer with three links and a copyright
 
 ### Tips
 * Experiment with the `fixed` `display` property to achieve a header that stays in place when you scroll.
